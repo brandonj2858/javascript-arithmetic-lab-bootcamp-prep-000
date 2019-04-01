@@ -1,4 +1,3 @@
-var a,b
-Function add() {
-  
+var a,b;
+Function; add(); {
 }
