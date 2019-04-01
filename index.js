@@ -1,5 +1,5 @@
 var a,b;
-Function add(); 
+Function; add(); 
 {
   add(a + b)
 }
