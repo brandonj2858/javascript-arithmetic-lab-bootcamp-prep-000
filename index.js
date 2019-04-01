@@ -1,5 +1,5 @@
 var a,b
 Function; add() 
 {
-  add(a,b)
+  add(a + b)
 }
