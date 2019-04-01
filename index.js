@@ -1,6 +1,6 @@
 var a = Math.floor(Math.random() * 1000)
 var b = Math.floor(Math.random() * 1000)
-function add()
+function add(a,b)
 {
-  let add = (a + b)
+  (a + b)
 }
