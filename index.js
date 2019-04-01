@@ -48,4 +48,7 @@ function makeInt(a)
 }
 var a = Math.floor(Math.random() * 1000)
 var b = Math.floor(Math.random() * 1000)
-function preserveDecimal()
+function preserveDecimal(a)
+{
+  return(parseFloat(a))
+}
