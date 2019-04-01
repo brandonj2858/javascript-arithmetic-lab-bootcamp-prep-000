@@ -1,4 +1,4 @@
-var a,b;
+var a,b
 Function; add(); 
 {
   add(a + b)
